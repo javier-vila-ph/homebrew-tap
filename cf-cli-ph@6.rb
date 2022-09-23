@@ -1,6 +1,6 @@
 require 'formula'
 
-class CfCliAT6 < Formula
+class CfCliPhAT6 < Formula
   desc "The official command line client for Cloud Foundry"
   homepage 'https://code.cloudfoundry.org/cli'
   version '6.53.0'
